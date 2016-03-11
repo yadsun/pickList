@@ -1,5 +1,4 @@
-# pickList
-A simple pickList using jQuery and Bootstrap
+![pickList is a simple plugin for jQuery.](http://s9.postimg.org/li46m3gvj/pick_List.png)
 
 <h2>
 <a name="installation" class="anchor" href="#installation"><span class="mini-icon mini-icon-link"></span></a>Installation</h2>
