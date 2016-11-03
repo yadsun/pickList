@@ -44,7 +44,7 @@ var pick = $("#pickList").pickList({data: val});
 ```
 <h2>
 <a name="demo" class="anchor" href="#demo"><span class="mini-icon mini-icon-link"></span></a>Demo</h2>
-<p><strong><a href="https://jsfiddle.net/gabrielr47/8ek53b1f/84/">pickList Simple</a></strong> </p>
+<p><strong><a href="https://jsfiddle.net/yadsun/a2gqwq6f/4/">pickList Simple</a></strong> </p>
 <p><strong><a href="https://jsfiddle.net/gabrielr47/13f7Lrb1/1/">pickList Multiple</a></strong> </p>
 <h2>
 <a name="authors" class="anchor" href="#authors"><span class="mini-icon mini-icon-link"></span></a>Author</h2>
